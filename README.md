@@ -14,7 +14,7 @@ Sovellus toimii Raspeberry Pi 4:llä, jossa asennettu Dockeriin MySQL-tietokanta
 
 Tietokantaan tallenetut tiedot sekä ajantasaiset tiedot näkyvät dashboardissa
 
-![Dashboard](node-red dashboard.JPG)
+![Dashboard](node-reddashboard.JPG)
 
 ## Node-red flow
 

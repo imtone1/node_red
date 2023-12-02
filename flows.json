@@ -1,0 +1,2495 @@
+[
+    {
+        "id": "859b0f068530624b",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5a18cfad37e1c0ea",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b6e6e640a86ed683",
+            "2f666175b8520d95",
+            "deaf9c876fba3bd0"
+        ],
+        "x": 248,
+        "y": 1139,
+        "w": 1064,
+        "h": 668
+    },
+    {
+        "id": "01992d2fcc812fb4",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0647c8033da5c6c6",
+            "11b9f347474503f7",
+            "4227ecd6e9e1bd94"
+        ],
+        "x": 688,
+        "y": 559,
+        "w": 2264,
+        "h": 508
+    },
+    {
+        "id": "5418b989205bd2cf",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8854e42a4022c6d5",
+            "0810896c46cb71cc",
+            "d1b629e948911ed4"
+        ],
+        "x": 274,
+        "y": 79,
+        "w": 532,
+        "h": 142
+    },
+    {
+        "id": "52d7ecc15bd619cb",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f439ea6c4653e1a9",
+            "29290bb9b42aa08e",
+            "d72fb2958cf25418"
+        ],
+        "x": 248,
+        "y": 1879,
+        "w": 1504,
+        "h": 428
+    },
+    {
+        "id": "86da3bc0916d76c1",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ed9d9d6f9ebeb653",
+            "6fdf543422974305",
+            "187f759b19b0bf15",
+            "e046153aab3ca6c7",
+            "739bd8a8bac2f185",
+            "b7dffc3372de67ec"
+        ],
+        "x": 868,
+        "y": 59,
+        "w": 1718,
+        "h": 368
+    },
+    {
+        "id": "b6e6e640a86ed683",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "5a18cfad37e1c0ea",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3e0d9faee50ab3c7",
+            "bf09e9427d88eee1",
+            "cf37a85c62691705",
+            "d14f711dfc574528",
+            "ae46681cab4cc89c",
+            "79eeacac35665d1b",
+            "2b2869217f3210a4",
+            "235064d8efbc9fe6",
+            "e756fafe74c22f5c"
+        ],
+        "x": 274,
+        "y": 1199,
+        "w": 1012,
+        "h": 282
+    },
+    {
+        "id": "2f666175b8520d95",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "5a18cfad37e1c0ea",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c4f4d56ab87b0d5f",
+            "ceee6a37fae7e7f0",
+            "72b83a14aeeab643",
+            "a1df54ab60009984",
+            "a6b7a11d1856dd06",
+            "49976abc2e697152",
+            "49a6e71b956985b6",
+            "79aae980fddbafcf",
+            "1473d5035a291d99"
+        ],
+        "x": 274,
+        "y": 1519,
+        "w": 972,
+        "h": 262
+    },
+    {
+        "id": "11b9f347474503f7",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "01992d2fcc812fb4",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "45fcfe160d754ec4",
+            "67f75127b1d8a985",
+            "b5ce168f65f3299e",
+            "a9393e8f69bdcae3",
+            "fac4788e530a007d",
+            "cd09f3a017fd17f6",
+            "f42816a6b37507ce",
+            "382636e753d70a89",
+            "3bb58b1a741cba96",
+            "373934e304be8ad2",
+            "85fb2e901f71b79c",
+            "9009f9dcfa8fdff9",
+            "d6782679ded0f9e8"
+        ],
+        "x": 714,
+        "y": 859,
+        "w": 2212,
+        "h": 182
+    },
+    {
+        "id": "4227ecd6e9e1bd94",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "01992d2fcc812fb4",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a1dcab852392c0dc",
+            "9bea0335833ade93",
+            "f7281308ed0613f9",
+            "d2a528c74598894a",
+            "f43452670498f2ef",
+            "cf085c2606528979",
+            "4d4adefdc43fafb7",
+            "65e606d6d2eb8629",
+            "c7be52bb081e0893",
+            "5b100fcdf0d02766",
+            "25f9554ef688ed98",
+            "a7e9496b56cec168",
+            "92704ce84d7a4584"
+        ],
+        "x": 714,
+        "y": 639,
+        "w": 2212,
+        "h": 182
+    },
+    {
+        "id": "29290bb9b42aa08e",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "52d7ecc15bd619cb",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "476b1a00bf193bf1",
+            "a528f8363c1cdee5",
+            "ac68149eb6e8af3f",
+            "c58577d68bb1269c",
+            "4f38b784a6449e02",
+            "802a38ae06d7fc56",
+            "cf9ba362180b4ebf"
+        ],
+        "x": 274,
+        "y": 1959,
+        "w": 1452,
+        "h": 142
+    },
+    {
+        "id": "d72fb2958cf25418",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "52d7ecc15bd619cb",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "170bfe9dfd575303",
+            "9e7b75ee8dc5c2c7",
+            "41b2a17988a97b5a",
+            "cc1239d15462eb42",
+            "eb83ce313d595508",
+            "050a8897f073acea",
+            "e1e0e1b51bed6a20"
+        ],
+        "x": 274,
+        "y": 2139,
+        "w": 1452,
+        "h": 142
+    },
+    {
+        "id": "6fdf543422974305",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "686d3634d34e6fb6",
+            "5996fc681d2d96d6",
+            "dd744e904ce65a83",
+            "f931f78afd4df89f",
+            "b0abd9cc82bb4191",
+            "c7e297fb7a986809"
+        ],
+        "x": 894,
+        "y": 139,
+        "w": 1212,
+        "h": 122
+    },
+    {
+        "id": "739bd8a8bac2f185",
+        "type": "group",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c7ccd48967303e3e",
+            "30208d342bee08f4",
+            "7a6babbe5080a73a",
+            "3445fa1892ab1096",
+            "f83bbfef6b073de4",
+            "9c9a9e9f44cf0696"
+        ],
+        "x": 894,
+        "y": 279,
+        "w": 1212,
+        "h": 122
+    },
+    {
+        "id": "59508e4ac91a68c8",
+        "type": "inject",
+        "z": "859b0f068530624b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 1440,
+        "wires": [
+            [
+                "3e0d9faee50ab3c7",
+                "c4f4d56ab87b0d5f"
+            ]
+        ]
+    },
+    {
+        "id": "3e0d9faee50ab3c7",
+        "type": "grove-sound-sensor",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "",
+        "port_number": "2",
+        "x": 460,
+        "y": 1320,
+        "wires": [
+            [
+                "ae46681cab4cc89c",
+                "d14f711dfc574528",
+                "2b2869217f3210a4",
+                "e756fafe74c22f5c",
+                "235064d8efbc9fe6"
+            ]
+        ]
+    },
+    {
+        "id": "c4f4d56ab87b0d5f",
+        "type": "grove-light-sensor-v1_2",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "",
+        "port_number": "6",
+        "x": 430,
+        "y": 1640,
+        "wires": [
+            [
+                "a1df54ab60009984",
+                "a6b7a11d1856dd06",
+                "49a6e71b956985b6",
+                "1473d5035a291d99",
+                "79aae980fddbafcf"
+            ]
+        ]
+    },
+    {
+        "id": "bf09e9427d88eee1",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1190,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cf37a85c62691705",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "Lisaa aanitaso int",
+        "func": "var aanitasonyt = msg.payload\nmsg.topic = \"INSERT INTO Aanitasot (aanitaso) VALUES (\" + aanitasonyt +\");\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1260,
+        "wires": [
+            [
+                "bf09e9427d88eee1"
+            ]
+        ]
+    },
+    {
+        "id": "476b1a00bf193bf1",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "Lue aanitasot max 30pv vanhat",
+        "func": "msg.topic = \"select * from Aanitasot WHERE timestamp BETWEEN NOW() - INTERVAL 30 DAY AND NOW();\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 2060,
+        "wires": [
+            [
+                "a528f8363c1cdee5"
+            ]
+        ]
+    },
+    {
+        "id": "a528f8363c1cdee5",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 670,
+        "y": 2060,
+        "wires": [
+            [
+                "c58577d68bb1269c"
+            ]
+        ]
+    },
+    {
+        "id": "ceee6a37fae7e7f0",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "Lisaa valotaso",
+        "func": "var valotasonyt = msg.payload\nmsg.topic = \"INSERT INTO Valotasot (valotaso) VALUES (\" + valotasonyt +\");\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1580,
+        "wires": [
+            [
+                "72b83a14aeeab643"
+            ]
+        ]
+    },
+    {
+        "id": "d14f711dfc574528",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "",
+        "group": "4f03dbea6a10355c",
+        "order": 6,
+        "width": 7,
+        "height": 5,
+        "label": "Äänitasodata",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 750,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "72b83a14aeeab643",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1150,
+        "y": 1580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a1df54ab60009984",
+        "type": "ui_gauge",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "",
+        "group": "4f03dbea6a10355c",
+        "order": 2,
+        "width": 3,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Valotaso",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "800",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 700,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "ae46681cab4cc89c",
+        "type": "ui_gauge",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "",
+        "group": "4f03dbea6a10355c",
+        "order": 1,
+        "width": 3,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Äänitaso",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "800",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 740,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "ac68149eb6e8af3f",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "",
+        "group": "7092d8e94906b06e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Äänitaso viimeisten 30 pv aikana",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1560,
+        "y": 2060,
+        "wires": [
+            []
+        ],
+        "outputLabels": [
+            "testi"
+        ]
+    },
+    {
+        "id": "c58577d68bb1269c",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "aanitaso tempdata json",
+        "func": "var tempData = [];\nvar aaniaika\nfor (let i = 0; i < msg.payload.length; i++) {\n  aaniaika= msg.payload[i].timestamp.toLocaleString('fi-FI');\n  const dataSet12 = { \n    \"aani\" : msg.payload[i].aanitaso,\n    \"aika\":  aaniaika\n   }\ntempData.push(dataSet12)\n}\n\nmsg.payload = tempData\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 2060,
+        "wires": [
+            [
+                "4f38b784a6449e02"
+            ]
+        ]
+    },
+    {
+        "id": "4f38b784a6449e02",
+        "type": "split",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 1090,
+        "y": 2060,
+        "wires": [
+            [
+                "802a38ae06d7fc56"
+            ]
+        ]
+    },
+    {
+        "id": "802a38ae06d7fc56",
+        "type": "change",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "topic=aika payload=aani",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.aika",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.aani",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1290,
+        "y": 2060,
+        "wires": [
+            [
+                "ac68149eb6e8af3f"
+            ]
+        ]
+    },
+    {
+        "id": "170bfe9dfd575303",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "Lue valotasot max 30pv vanhat",
+        "func": "msg.topic = \"select * from Valotasot WHERE timestamp BETWEEN NOW() - INTERVAL 30 DAY AND NOW();\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 2240,
+        "wires": [
+            [
+                "9e7b75ee8dc5c2c7"
+            ]
+        ]
+    },
+    {
+        "id": "9e7b75ee8dc5c2c7",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 670,
+        "y": 2240,
+        "wires": [
+            [
+                "cc1239d15462eb42"
+            ]
+        ]
+    },
+    {
+        "id": "41b2a17988a97b5a",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "",
+        "group": "7092d8e94906b06e",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Valotaso viimeisten 30 pv aikana",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "dd HH:mm",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1570,
+        "y": 2240,
+        "wires": [
+            []
+        ],
+        "outputLabels": [
+            "testi"
+        ]
+    },
+    {
+        "id": "cc1239d15462eb42",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "valotaso tempdata json",
+        "func": "var valotempData = [];\nvar valoaika\nfor (let i = 0; i < msg.payload.length; i++) {\n  valoaika= msg.payload[i].timestamp.toLocaleString('fi-FI');\n  const dataSetti = { \n    \"valo\" : msg.payload[i].valotaso,\n    \"aika\":  valoaika\n   }\n valotempData.push(dataSetti)\n}\n\nmsg.payload = valotempData\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 2240,
+        "wires": [
+            [
+                "eb83ce313d595508"
+            ]
+        ]
+    },
+    {
+        "id": "eb83ce313d595508",
+        "type": "split",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 1090,
+        "y": 2240,
+        "wires": [
+            [
+                "050a8897f073acea"
+            ]
+        ]
+    },
+    {
+        "id": "050a8897f073acea",
+        "type": "change",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "topic=aika payload=valo",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.aika",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.valo",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1290,
+        "y": 2240,
+        "wires": [
+            [
+                "41b2a17988a97b5a"
+            ]
+        ]
+    },
+    {
+        "id": "a6b7a11d1856dd06",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "",
+        "group": "4f03dbea6a10355c",
+        "order": 7,
+        "width": 7,
+        "height": 5,
+        "label": "Valotasodata",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 710,
+        "y": 1620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b7dffc3372de67ec",
+        "type": "e-mail",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": true,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "ira.tatti@gmail.com",
+        "dname": "Email",
+        "x": 2230,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "a1dcab852392c0dc",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1870,
+        "y": 780,
+        "wires": [
+            [
+                "5b100fcdf0d02766",
+                "65e606d6d2eb8629"
+            ]
+        ]
+    },
+    {
+        "id": "45fcfe160d754ec4",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "laske yli valotaso_rajan valotaso pvm",
+        "func": "var tama = flow.get('valotaso_raja') || 600;\nmsg.topic = \"SELECT DATE_FORMAT(timestamp, '%d.%m.%Y') as Paivamaara, COUNT(*) as Ylitystenmaara, GROUP_CONCAT(CONCAT(TIME(timestamp),'(',valotaso,')') ORDER BY timestamp SEPARATOR ', ') as Ylitysten_ajat_arvo FROM Valotasot WHERE valotaso > \" + tama+ \" GROUP BY Paivamaara ORDER BY Paivamaara DESC;\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 1000,
+        "wires": [
+            [
+                "67f75127b1d8a985"
+            ]
+        ]
+    },
+    {
+        "id": "67f75127b1d8a985",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1870,
+        "y": 1000,
+        "wires": [
+            [
+                "cd09f3a017fd17f6",
+                "a9393e8f69bdcae3"
+            ]
+        ]
+    },
+    {
+        "id": "b5ce168f65f3299e",
+        "type": "ui_template",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "group": "9d3dfafe291c327a",
+        "name": "Valotasotemplate",
+        "order": 5,
+        "width": 7,
+        "height": 10,
+        "format": "<style>\n\ntr {\nborder-bottom: 1px solid #ddd;\n}\nth {\n  background-color:#008080;\n}\ntr:hover {background-color: #008080}\n\n.pad{\n  padding: 10px 10px;\n}\n.maara{\n  padding: 20px 10px 10px;\n  font-weight: bold;\n}\n</style>\n<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 2290,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a9393e8f69bdcae3",
+        "type": "template",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<html>\n    \n    <body>\n        <h1>Valotaso</h1>\n<table>\n{{#payload}}\n\n<tr>\n    <th>{{Paivamaara}}</th>\n  </tr>\n  <tr>\n<td class=\"maara\">Ylitysten määrä: {{Ylitystenmaara}}</td>\n\n</tr>\n<tr><td class=\"pad\">{{Ylitysten_ajat_arvo}}</td></tr>\n{{/payload}}\n</table>\n    </body>\n</html>",
+        "output": "str",
+        "x": 2080,
+        "y": 900,
+        "wires": [
+            [
+                "b5ce168f65f3299e"
+            ]
+        ]
+    },
+    {
+        "id": "fac4788e530a007d",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "",
+        "group": "da350dc0bcc5ccee",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Valotaso",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "D/M",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 2840,
+        "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cd09f3a017fd17f6",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "dataset ylitykset ja pvm",
+        "func": " var valotempData = [];\n var dataSetti = [];\n \nif (msg.payload.length != 0 )\n{\n \n\nfor (let i = 0; i < msg.payload.length; i++) {\n \n   dataSetti = { \n    \"ylitykset\" : msg.payload[i].Ylitystenmaara,\n    \"pvm\":  msg.payload[i].Paivamaara\n   }\n valotempData.push(dataSetti)\n}\n\n}\n\nmsg.payload = valotempData\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2110,
+        "y": 1000,
+        "wires": [
+            [
+                "382636e753d70a89"
+            ]
+        ]
+    },
+    {
+        "id": "f42816a6b37507ce",
+        "type": "change",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "topic=pvm payload=ylitykset",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.pvm",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.ylitykset",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2580,
+        "y": 1000,
+        "wires": [
+            [
+                "fac4788e530a007d"
+            ]
+        ]
+    },
+    {
+        "id": "382636e753d70a89",
+        "type": "split",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 2350,
+        "y": 1000,
+        "wires": [
+            [
+                "f42816a6b37507ce"
+            ]
+        ]
+    },
+    {
+        "id": "c7ccd48967303e3e",
+        "type": "template",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "name": "emain viesti",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<html>\n\n<body>\n\n<h1>Äänitasoylitysten taso</h1>\n<p>Viimeisten 30 päivän aikana:\n</p>\n\n<table>\n{{#payload}}\n\n<tr>\n    <th>{{Paivamaara}}</th>\n  </tr>\n  <tr>\n<td>Ylitysten määrä {{Ylitystenmaara}}</td>\n\n</tr>\n<tr><td>{{Ylitysten_ajat_arvo}}</td></tr>\n{{/payload}}\n</table>\n\n</body>\n</html>",
+        "output": "str",
+        "x": 1810,
+        "y": 360,
+        "wires": [
+            [
+                "3445fa1892ab1096"
+            ]
+        ]
+    },
+    {
+        "id": "79f8731dddb2a9c2",
+        "type": "inject",
+        "z": "859b0f068530624b",
+        "name": "Kerran kuukaudessa",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "259200",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 260,
+        "wires": [
+            [
+                "8854e42a4022c6d5"
+            ]
+        ]
+    },
+    {
+        "id": "30208d342bee08f4",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "name": "laske yli 600 aanitaso pvm",
+        "func": "if (msg.payload = true)\n{\n    var raja = flow.get('aanitaso_raja') || 600;\nmsg.topic = \"SELECT DATE_FORMAT(timestamp, '%d.%m.%Y') as Paivamaara, COUNT(*) as Ylitystenmaara, GROUP_CONCAT(CONCAT(TIME(timestamp),'(',aanitaso,')') ORDER BY timestamp SEPARATOR ', ') as Ylitysten_ajat_arvo FROM Aanitasot WHERE aanitaso >\"+ raja + \" AND timestamp BETWEEN NOW() - INTERVAL 30 DAY AND NOW() GROUP BY Paivamaara ORDER BY Paivamaara DESC;\"\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 360,
+        "wires": [
+            [
+                "7a6babbe5080a73a"
+            ]
+        ]
+    },
+    {
+        "id": "7a6babbe5080a73a",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1610,
+        "y": 360,
+        "wires": [
+            [
+                "c7ccd48967303e3e"
+            ]
+        ]
+    },
+    {
+        "id": "3445fa1892ab1096",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "name": "email otsikko",
+        "func": "msg.topic = \"Node-red raportti\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2010,
+        "y": 360,
+        "wires": [
+            [
+                "b7dffc3372de67ec",
+                "e046153aab3ca6c7"
+            ]
+        ]
+    },
+    {
+        "id": "3bb58b1a741cba96",
+        "type": "ui_slider",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "",
+        "label": "Valotason raja-arvo",
+        "tooltip": "",
+        "group": "0ab3836891e08a75",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "900",
+        "step": "10",
+        "className": "",
+        "x": 830,
+        "y": 1000,
+        "wires": [
+            [
+                "373934e304be8ad2",
+                "85fb2e901f71b79c"
+            ]
+        ]
+    },
+    {
+        "id": "373934e304be8ad2",
+        "type": "ui_text",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "group": "0ab3836891e08a75",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "name": "Valotason raja-arvo",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1070,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "85fb2e901f71b79c",
+        "type": "rbe",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1030,
+        "y": 1000,
+        "wires": [
+            [
+                "9009f9dcfa8fdff9"
+            ]
+        ]
+    },
+    {
+        "id": "9009f9dcfa8fdff9",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "valotaso_raja flow asetus",
+        "func": "var valotaso_raja = msg.payload || 600;\nflow.set('valotaso_raja', valotaso_raja)\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1250,
+        "y": 1000,
+        "wires": [
+            [
+                "45fcfe160d754ec4"
+            ]
+        ]
+    },
+    {
+        "id": "8854e42a4022c6d5",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "5418b989205bd2cf",
+        "name": "Poisto yli 30pv ja alle 500 valotasot",
+        "func": "//tilan saastamiseksi poistetaan yli 30 paivaa vanhat, alle 500 valotasot.\n//voimme siten luottaa, etta jaljelle jaa vaan merkitsevat arvoat ja muut olivat alle raja-arvon\n\nmsg.topic = \"DELETE FROM Valotasot WHERE valotaso < 500 AND timestamp < NOW() - INTERVAL 30 DAY;\"\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 180,
+        "wires": [
+            [
+                "0810896c46cb71cc"
+            ]
+        ]
+    },
+    {
+        "id": "0810896c46cb71cc",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "5418b989205bd2cf",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 710,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9bea0335833ade93",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "laske yli aanitaso_rajan aanitaso pvm",
+        "func": "var tama = flow.get('aanitaso_raja') || 600;\nmsg.topic = \"SELECT DATE_FORMAT(timestamp, '%d.%m.%Y') as Paivamaara, COUNT(*) as Ylitystenmaara, GROUP_CONCAT(CONCAT(TIME(timestamp),'(',aanitaso,')') ORDER BY timestamp SEPARATOR ', ') as Ylitysten_ajat_arvo FROM Aanitasot WHERE aanitaso > \" + tama+ \" GROUP BY Paivamaara ORDER BY Paivamaara DESC;\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 780,
+        "wires": [
+            [
+                "a1dcab852392c0dc"
+            ]
+        ]
+    },
+    {
+        "id": "f7281308ed0613f9",
+        "type": "ui_slider",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "",
+        "label": "Äänitason raja-arvo",
+        "tooltip": "",
+        "group": "0ab3836891e08a75",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "900",
+        "step": "10",
+        "className": "",
+        "x": 830,
+        "y": 780,
+        "wires": [
+            [
+                "d2a528c74598894a",
+                "f43452670498f2ef"
+            ]
+        ]
+    },
+    {
+        "id": "d2a528c74598894a",
+        "type": "ui_text",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "group": "0ab3836891e08a75",
+        "order": 4,
+        "width": 1,
+        "height": 1,
+        "name": "Äänitason raja-arvo",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1070,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "f43452670498f2ef",
+        "type": "rbe",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1030,
+        "y": 780,
+        "wires": [
+            [
+                "cf085c2606528979"
+            ]
+        ]
+    },
+    {
+        "id": "cf085c2606528979",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "aanitaso_raja flow asetus",
+        "func": "var aanitaso_raja = msg.payload || 600;\nflow.set('aanitaso_raja', aanitaso_raja)\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1250,
+        "y": 780,
+        "wires": [
+            [
+                "9bea0335833ade93"
+            ]
+        ]
+    },
+    {
+        "id": "79eeacac35665d1b",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "Melutaso",
+        "info": "",
+        "x": 360,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "49976abc2e697152",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "Valotaso",
+        "info": "",
+        "x": 360,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "deaf9c876fba3bd0",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "5a18cfad37e1c0ea",
+        "name": "Mittaa, näytä taso ja tallenna tietokantaan",
+        "info": "",
+        "x": 440,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "0647c8033da5c6c6",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "01992d2fcc812fb4",
+        "name": "Aseta raja-arvo, hae tietokannasta, esitä",
+        "info": "",
+        "x": 880,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "d6782679ded0f9e8",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "11b9f347474503f7",
+        "name": "Valotaso",
+        "info": "",
+        "x": 800,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "4d4adefdc43fafb7",
+        "type": "ui_template",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "group": "9d3dfafe291c327a",
+        "name": "Äänidata template",
+        "order": 1,
+        "width": 7,
+        "height": 10,
+        "format": "<style>\n\ntr {\nborder-bottom: 1px solid #ddd;\n}\nth {\n  background-color: #008080;\n}\ntr:hover {background-color: #008080;}\n\n.pad{\n  padding: 10px 10px;\n}\n.maara{\n  padding: 20px 10px 10px; \n  font-weight: bold;\n}\n</style>\n<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 2250,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "65e606d6d2eb8629",
+        "type": "template",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<html>\n    \n    <body>\n        <h1>Äänitaso</h1>\n<table>\n{{#payload}}\n\n<tr>\n    <th>{{Paivamaara}}</th>\n  </tr>\n  <tr>\n<td class=\"maara\">Ylitysten määrä: {{Ylitystenmaara}}</td>\n\n</tr>\n<tr><td class=\"pad\">{{Ylitysten_ajat_arvo}}</td></tr>\n{{/payload}}\n</table>\n    </body>\n</html>",
+        "output": "str",
+        "x": 2040,
+        "y": 680,
+        "wires": [
+            [
+                "4d4adefdc43fafb7"
+            ]
+        ]
+    },
+    {
+        "id": "c7be52bb081e0893",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "",
+        "group": "da350dc0bcc5ccee",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "label": "Äänitaso",
+        "chartType": "bar",
+        "legend": "false",
+        "xformat": "D/M",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 2840,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5b100fcdf0d02766",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "dataset ylitykset ja pvm",
+        "func": "var aanitempData = [];\n\nfor (let i = 0; i < msg.payload.length; i++) {\n \n  const dataSetti1 = { \n    \"ylitykset\" : msg.payload[i].Ylitystenmaara,\n    \"pvm\":  msg.payload[i].Paivamaara\n   }\n aanitempData.push(dataSetti1)\n}\n\nmsg.payload = aanitempData\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2110,
+        "y": 780,
+        "wires": [
+            [
+                "a7e9496b56cec168"
+            ]
+        ]
+    },
+    {
+        "id": "25f9554ef688ed98",
+        "type": "change",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "topic=pvm payload=ylitykset",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.pvm",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.ylitykset",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2580,
+        "y": 780,
+        "wires": [
+            [
+                "c7be52bb081e0893"
+            ]
+        ]
+    },
+    {
+        "id": "a7e9496b56cec168",
+        "type": "split",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 2350,
+        "y": 780,
+        "wires": [
+            [
+                "25f9554ef688ed98"
+            ]
+        ]
+    },
+    {
+        "id": "92704ce84d7a4584",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "4227ecd6e9e1bd94",
+        "name": "Äänitaso",
+        "info": "",
+        "x": 800,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "d1b629e948911ed4",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "5418b989205bd2cf",
+        "name": "Poisto tietokannasta",
+        "info": "",
+        "x": 390,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "f83bbfef6b073de4",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "name": "Äänitiedot",
+        "info": "",
+        "x": 980,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "e1e0e1b51bed6a20",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "d72fb2958cf25418",
+        "name": "Valotaso",
+        "info": "",
+        "x": 380,
+        "y": 2180,
+        "wires": []
+    },
+    {
+        "id": "cf9ba362180b4ebf",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "29290bb9b42aa08e",
+        "name": "Äänitaso",
+        "info": "",
+        "x": 380,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "f439ea6c4653e1a9",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "52d7ecc15bd619cb",
+        "name": "Piirra tasojen Bar Chart",
+        "info": "",
+        "x": 380,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "9c9a9e9f44cf0696",
+        "type": "ui_button",
+        "z": "859b0f068530624b",
+        "g": "739bd8a8bac2f185",
+        "name": "",
+        "group": "9d3dfafe291c327a",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Lähetä aanitiedot",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "Green",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1010,
+        "y": 360,
+        "wires": [
+            [
+                "30208d342bee08f4"
+            ]
+        ]
+    },
+    {
+        "id": "686d3634d34e6fb6",
+        "type": "template",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "name": "emain viesti",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<html>\n\n<body>\n\n<h1>Valotasoylitysten taso</h1>\n<p>Viimeisten 30 päivän aikana:\n</p>\n\n<table>\n{{#payload}}\n\n<tr>\n    <th>{{Paivamaara}}</th>\n  </tr>\n  <tr>\n<td>Ylitysten määrä {{Ylitystenmaara}}</td>\n\n</tr>\n<tr><td>{{Ylitysten_ajat_arvo}}</td></tr>\n{{/payload}}\n</table>\n\n</body>\n</html>",
+        "output": "str",
+        "x": 1810,
+        "y": 220,
+        "wires": [
+            [
+                "f931f78afd4df89f"
+            ]
+        ]
+    },
+    {
+        "id": "5996fc681d2d96d6",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "name": "laske yli 600 valotaso pvm",
+        "func": "if (msg.payload = true)\n{\n    var raja = flow.get('valotaso_raja') || 600;\nmsg.topic = \"SELECT DATE_FORMAT(timestamp, '%d.%m.%Y') as Paivamaara, COUNT(*) as Ylitystenmaara, GROUP_CONCAT(CONCAT(TIME(timestamp),'(',valotaso,')') ORDER BY timestamp SEPARATOR ', ') as Ylitysten_ajat_arvo FROM Valotasot WHERE valotaso >\"+ raja + \" AND timestamp BETWEEN NOW() - INTERVAL 30 DAY AND NOW() GROUP BY Paivamaara ORDER BY Paivamaara DESC;\"\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 220,
+        "wires": [
+            [
+                "dd744e904ce65a83"
+            ]
+        ]
+    },
+    {
+        "id": "dd744e904ce65a83",
+        "type": "mysql",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "mydb": "d68145116fe1c3e7",
+        "name": "",
+        "x": 1590,
+        "y": 220,
+        "wires": [
+            [
+                "686d3634d34e6fb6"
+            ]
+        ]
+    },
+    {
+        "id": "f931f78afd4df89f",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "name": "email otsikko",
+        "func": "msg.topic = \"Node-red raportti\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2010,
+        "y": 220,
+        "wires": [
+            [
+                "e046153aab3ca6c7",
+                "b7dffc3372de67ec"
+            ]
+        ]
+    },
+    {
+        "id": "b0abd9cc82bb4191",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "name": "Valotiedot",
+        "info": "",
+        "x": 980,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "c7e297fb7a986809",
+        "type": "ui_button",
+        "z": "859b0f068530624b",
+        "g": "6fdf543422974305",
+        "name": "",
+        "group": "9d3dfafe291c327a",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Lähetä valotiedot",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "Green",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1010,
+        "y": 220,
+        "wires": [
+            [
+                "5996fc681d2d96d6"
+            ]
+        ]
+    },
+    {
+        "id": "ed9d9d6f9ebeb653",
+        "type": "comment",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "name": "Sähköposti",
+        "info": "",
+        "x": 980,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "4a93b88f8b87fd57",
+        "type": "inject",
+        "z": "859b0f068530624b",
+        "name": "Kerran",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "600",
+        "payloadType": "num",
+        "x": 140,
+        "y": 840,
+        "wires": [
+            [
+                "f7281308ed0613f9",
+                "3bb58b1a741cba96",
+                "c7e297fb7a986809",
+                "9c9a9e9f44cf0696",
+                "8854e42a4022c6d5"
+            ]
+        ]
+    },
+    {
+        "id": "5e6ea577fcd368cb",
+        "type": "inject",
+        "z": "859b0f068530624b",
+        "name": "Kolmen tunnin valein",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "10800",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 2100,
+        "wires": [
+            [
+                "476b1a00bf193bf1",
+                "170bfe9dfd575303"
+            ]
+        ]
+    },
+    {
+        "id": "187f759b19b0bf15",
+        "type": "ui_toast",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "position": "top right",
+        "displayTime": "0",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Ponnahdusviesti",
+        "x": 2480,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "e046153aab3ca6c7",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "86da3bc0916d76c1",
+        "name": "Pop-up sisältö",
+        "func": "msg.payload = \"Sähköposti lähetetty\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2260,
+        "y": 240,
+        "wires": [
+            [
+                "187f759b19b0bf15"
+            ]
+        ]
+    },
+    {
+        "id": "2b2869217f3210a4",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "Ei alle 97 arvoja",
+        "func": "if (msg.payload > 97)\n{\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 1260,
+        "wires": [
+            [
+                "cf37a85c62691705"
+            ]
+        ]
+    },
+    {
+        "id": "49a6e71b956985b6",
+        "type": "function",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "Ei alle 10 arvoja",
+        "func": "if (msg.payload > 10)\n{\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1580,
+        "wires": [
+            [
+                "ceee6a37fae7e7f0"
+            ]
+        ]
+    },
+    {
+        "id": "235064d8efbc9fe6",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "",
+        "group": "7bb60b03a2cd0c12",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "label": "Äänitaso 1h",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 750,
+        "y": 1440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e756fafe74c22f5c",
+        "type": "ui_gauge",
+        "z": "859b0f068530624b",
+        "g": "b6e6e640a86ed683",
+        "name": "",
+        "group": "7bb60b03a2cd0c12",
+        "order": 1,
+        "width": 3,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Äänitaso",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "800",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 740,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "79aae980fddbafcf",
+        "type": "ui_gauge",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "",
+        "group": "7bb60b03a2cd0c12",
+        "order": 3,
+        "width": 3,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Valotaso",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "800",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 700,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "1473d5035a291d99",
+        "type": "ui_chart",
+        "z": "859b0f068530624b",
+        "g": "2f666175b8520d95",
+        "name": "",
+        "group": "7bb60b03a2cd0c12",
+        "order": 7,
+        "width": 7,
+        "height": 5,
+        "label": "Valotaso 1h",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 710,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f06c8619f9f00c34",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "4f03dbea6a10355c",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "73aadebf48454507",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "4f03dbea6a10355c",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "b0d2db992091513f",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "4f03dbea6a10355c",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "fa6f2e98e444725f",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "4f03dbea6a10355c",
+        "order": 8,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "207da4588b4a672b",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "7bb60b03a2cd0c12",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f2f156bdb359136f",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "7bb60b03a2cd0c12",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "80152215aefe2d26",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "7bb60b03a2cd0c12",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "85e6d88485675236",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "9d3dfafe291c327a",
+        "order": 2,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "2bd70c0ffcf75ea2",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "9d3dfafe291c327a",
+        "order": 4,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "27e6cb445537d79e",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "9d3dfafe291c327a",
+        "order": 6,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "3073250348433e28",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "9d3dfafe291c327a",
+        "order": 8,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "6e7eda0ab2dd80fc",
+        "type": "ui_spacer",
+        "z": "859b0f068530624b",
+        "name": "spacer",
+        "group": "7092d8e94906b06e",
+        "order": 2,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "d68145116fe1c3e7",
+        "type": "MySQLdatabase",
+        "name": "Tietokanta",
+        "host": "172.20.0.2",
+        "port": "3306",
+        "db": "nodereddata",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "4f03dbea6a10355c",
+        "type": "ui_group",
+        "name": "Ääni- ja valomitaussovellus",
+        "tab": "9882ceea4c29489e",
+        "order": 1,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7092d8e94906b06e",
+        "type": "ui_group",
+        "name": "Viimeisimmat 30 pv tiedot",
+        "tab": "fd2dbe2e64b5f9de",
+        "order": 5,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9d3dfafe291c327a",
+        "type": "ui_group",
+        "name": "Ylityksien määrä taulukoituna",
+        "tab": "fd2dbe2e64b5f9de",
+        "order": 4,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "da350dc0bcc5ccee",
+        "type": "ui_group",
+        "name": "Ylityksien määrä",
+        "tab": "fd2dbe2e64b5f9de",
+        "order": 3,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0ab3836891e08a75",
+        "type": "ui_group",
+        "name": "Määrittele raja-arvot",
+        "tab": "fd2dbe2e64b5f9de",
+        "order": 1,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7bb60b03a2cd0c12",
+        "type": "ui_group",
+        "name": "Ajankohtainen tieto",
+        "tab": "fd2dbe2e64b5f9de",
+        "order": 2,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9882ceea4c29489e",
+        "type": "ui_tab",
+        "name": "Ajantasainen",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fd2dbe2e64b5f9de",
+        "type": "ui_tab",
+        "name": "Tietokanta",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
